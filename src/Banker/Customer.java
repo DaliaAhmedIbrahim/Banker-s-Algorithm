@@ -49,6 +49,6 @@ public class Customer implements Runnable
                         canRun = false;
                 }
             }
-            System.out.println("Thread # " + customerNum + " I'm interrupted.");
+           
         }
 }
